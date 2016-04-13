@@ -1,0 +1,7 @@
+D:\TestProject\TestProject.Sorting\bin\Debug\TestProject.Sorting.exe.config
+D:\TestProject\TestProject.Sorting\bin\Debug\city_list.txt
+D:\TestProject\TestProject.Sorting\bin\Debug\TestProject.Sorting.exe
+D:\TestProject\TestProject.Sorting\bin\Debug\TestProject.Sorting.pdb
+D:\TestProject\TestProject.Sorting\obj\Debug\TestProject.Sorting.csprojResolveAssemblyReference.cache
+D:\TestProject\TestProject.Sorting\obj\Debug\TestProject.Sorting.exe
+D:\TestProject\TestProject.Sorting\obj\Debug\TestProject.Sorting.pdb

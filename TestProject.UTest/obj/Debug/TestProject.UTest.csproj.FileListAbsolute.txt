@@ -1,0 +1,10 @@
+D:\TestProject\TestProject.UTest\bin\Debug\city_list.txt
+D:\TestProject\TestProject.UTest\bin\Debug\TestProject.UTest.dll
+D:\TestProject\TestProject.UTest\bin\Debug\TestProject.UTest.pdb
+D:\TestProject\TestProject.UTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\TestProject\TestProject.UTest\bin\Debug\TestProject.Sorting.exe
+D:\TestProject\TestProject.UTest\bin\Debug\TestProject.Sorting.pdb
+D:\TestProject\TestProject.UTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\TestProject\TestProject.UTest\obj\Debug\TestProject.UTest.csprojResolveAssemblyReference.cache
+D:\TestProject\TestProject.UTest\obj\Debug\TestProject.UTest.dll
+D:\TestProject\TestProject.UTest\obj\Debug\TestProject.UTest.pdb
