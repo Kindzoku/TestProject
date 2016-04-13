@@ -76,7 +76,7 @@
 
         public static void ShowCollection(TravelCard[] cards)
         {
-            Console.WriteLine("Carrent collection state:");
+            Console.WriteLine("Current collection state:");
             Console.WriteLine(string.Join(", ", (object[])cards));
             Console.WriteLine(Environment.NewLine);
         }
